@@ -19,8 +19,8 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
-import Cronometro from './Cronometro.vue';
+import { defineComponent } from "vue";
+import Cronometro from "./Cronometro.vue";
 
 export default defineComponent({
 	// eslint-disable-next-line vue/multi-word-component-names
